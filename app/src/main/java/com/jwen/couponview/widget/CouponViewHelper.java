@@ -9,8 +9,10 @@ import android.view.View;
 
 import com.jwen.couponview.R;
 
+
 /**
- * Created by Administrator on 2016/9/18 0018.
+ * author: Jwen
+ * date:2016-11-01.
  */
 
 public class CouponViewHelper {

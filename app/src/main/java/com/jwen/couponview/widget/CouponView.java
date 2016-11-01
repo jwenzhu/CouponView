@@ -4,7 +4,10 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.util.AttributeSet;
 import android.widget.FrameLayout;
-
+/**
+ * author: Jwen
+ * date:2016-11-01.
+ */
 public class CouponView extends FrameLayout {
 
     private CouponViewHelper helper;
